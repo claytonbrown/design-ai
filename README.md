@@ -13,7 +13,7 @@ If you are looking for:
 
 this repo is built for exactly that workflow.
 
-![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-290-10b981?style=classic)
+![DESIGN.md Count](https://img.shields.io/badge/DESIGN.md%20count-300-10b981?style=classic)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -148,6 +148,10 @@ If you want high-signal examples first, start with:
 - [LottieFiles](design-md/lottiefiles/DESIGN.md)
 - [Craft](design-md/craft/DESIGN.md)
 - [Readwise](design-md/readwise/DESIGN.md)
+- [Sketch](design-md/sketch/DESIGN.md)
+- [Spline](design-md/spline/DESIGN.md)
+- [Rive](design-md/rive/DESIGN.md)
+- [Kickstarter](design-md/kickstarter/DESIGN.md)
 
 ### Commerce, Retail & Local Services
 
@@ -189,6 +193,7 @@ If you want high-signal examples first, start with:
 - [Mux](design-md/mux/DESIGN.md)
 - [YouTube](design-md/youtube/DESIGN.md)
 - [Roblox](design-md/roblox/DESIGN.md)
+- [SoundCloud](design-md/soundcloud/DESIGN.md)
 
 ### Developer Tools, Productivity & SaaS
 
@@ -280,6 +285,8 @@ If you want high-signal examples first, start with:
 - [Firebase](design-md/firebase/DESIGN.md)
 - [Bun](design-md/bun/DESIGN.md)
 - [Hoppscotch](design-md/hoppscotch/DESIGN.md)
+- [Todoist](design-md/todoist/DESIGN.md)
+- [Evernote](design-md/evernote/DESIGN.md)
 
 ### Finance, Payments & Crypto
 
@@ -363,6 +370,9 @@ If you want high-signal examples first, start with:
 - [Zen Browser](design-md/zenbrowser/DESIGN.md)
 - [Obsidian](design-md/obsidian/DESIGN.md)
 - [Peloton](design-md/peloton/DESIGN.md)
+- [Strava](design-md/strava/DESIGN.md)
+- [Headspace](design-md/headspace/DESIGN.md)
+- [Nothing](design-md/nothing/DESIGN.md)
 
 ### Enterprise, Cloud & Infrastructure
 
